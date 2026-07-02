@@ -80,7 +80,21 @@ BankManagementApp/
 3. Extract the zip file
 4. Double-click `UserInterface.exe` to launch the app
 
-> ⚠️ Make sure `Users.txt` stays in the **same folder** as the `.exe` file, otherwise login will not work.
+> ⚠️ Make sure `Users.txt` and `Currencies.txt` stay in the **same folder** as the `.exe` file, otherwise the app will not work correctly.
+
+---
+
+## 💾 Data Storage
+
+All data is persisted locally in plain text files, each dedicated to a specific domain:
+
+| File | Contents |
+|------|----------|
+| `Users.txt` | System users |
+| `Clients.txt` | Bank clients |
+| `Currencies.txt` | Currency exchange rates |
+| `Login Register.txt` | User login history |
+| `TransferLog.txt` | Transaction transfer logs |
 
 ---
 
