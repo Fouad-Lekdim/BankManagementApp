@@ -96,6 +96,8 @@ All data is persisted locally in plain text files, each dedicated to a specific 
 | `Login Register.txt` | User login history |
 | `TransferLog.txt` | Transaction transfer logs |
 
+> 🔒 User passwords are stored encrypted in `Users.txt` for security reasons.
+
 ---
 
 ## 🔑 Demo Credentials
