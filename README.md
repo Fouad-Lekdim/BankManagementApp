@@ -116,6 +116,12 @@ All data is persisted locally in plain text files, each dedicated to a specific 
 
 ---
 
+## 🎬 Demo
+
+▶️ [Watch the demo on LinkedIn](https://www.linkedin.com/posts/fouad-lekdim-619580297_cplusplus-oop-bankingsystem-ugcPost-7479390511389315072-dt_R/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEfPN3UBUmwXJFRHqfwKH7YdS9ua_zhxcgk)
+
+---
+
 ## 👨‍💻 Author
 
 **Fouad LEKDIM**  
